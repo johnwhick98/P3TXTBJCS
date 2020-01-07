@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BJCS P3</string>
+    <string name="ingrese">Ingrese Su Nombre</string>
+    <string name="Txtnombre">Name</string>
+    <string name="boton1">Grabar</string>
+    <string name="textview">Contenido</string>
+    <string name="boton2">Cargar</string>
+    <string name="Contenido">TextView</string>
+</resources>
